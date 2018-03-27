@@ -13,3 +13,6 @@ h2 {
 p {
   color: grey;
 }
+.headshot {
+  max-width: 20%
+}

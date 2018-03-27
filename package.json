@@ -7,6 +7,7 @@
     "content": "CC­BY­NC­SA 4.0"
   },
   "dependencies": {
+    "grunt": "^1.0.2",
     "jquery": "^3.1.1",
     "startbootstrap-stylish-portfolio": "^4.0.0"
   },
